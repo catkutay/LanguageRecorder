@@ -1,0 +1,7 @@
+{
+  "name": "LanguageRecorder",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
